@@ -1,4 +1,4 @@
-const apiKey = "";
+const apiKey = "?";
 
 const Yelp = {
   async search(term, location, sortBy) {
